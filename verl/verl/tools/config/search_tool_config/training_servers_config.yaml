@@ -1,0 +1,59 @@
+# Default Training Tools Configuration
+# Using web_search_v2 + crawl_page_v2
+# For training phase, optimized for performance and stability
+
+tools:
+  # Web Search v2 - Basic search functionality
+  - class_name: verl.tools.web_search_v2.SerperCacheAPITool
+    config:
+      timeout: 60
+      num_results: 10
+    tool_schema:
+      type: function
+      function:
+        name: wiki_search
+        description: Search the web using Google via Serper API with caching. Returns search results with title, link, and snippet.
+        parameters:
+          type: object
+          properties:
+            query:
+              type: string
+              description: The search query
+            num_results:
+              type: integer
+              description: Number of search results to return (default 10)
+              default: 10
+          required: ["query"]
+
+  # Crawl Page v2 - Page crawling and AI summary
+  - class_name: verl.tools.crawl_page_v2.CrawlPageV2Tool
+    config:
+      timeout: 500
+      summary_type: "page"
+      chunk_size: 8192
+      do_last_summary: false
+    tool_schema:
+      type: function
+      function:
+        name: crawl_page
+        description: Crawl web pages and get AI-powered summary of their content. Use this after web_search to get detailed information from specific pages.
+        parameters:
+          type: object
+          properties:
+            query:
+              type: string
+              description: URLs to crawl, separated by '|'. You can use URLs from web_search results. Supports plain URLs or markdown format '[title](url)'
+            summary_type:
+              type: string
+              description: Type of summarization - 'none', 'once', 'chunk', or 'page' (default 'once')
+              enum: ["none", "once", "chunk", "page"]
+              default: "once"
+            chunk_size:
+              type: integer
+              description: Size of chunks for chunk-based summarization (default 8192)
+              default: 8192
+            do_last_summary:
+              type: boolean
+              description: Whether to do final summary for multi-chunk/page results (default false)
+              default: false
+          required: ["query"]

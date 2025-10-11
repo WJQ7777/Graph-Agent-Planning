@@ -1,0 +1,21 @@
+tools:
+  - class_name: verl.tools.code_executor.CodeExecutor
+    config:
+      retrieval_service_url: Local
+      num_workers: 120
+      memory_limit: 10*1024**3  # MB
+      timeout: 30   # second
+      nsjail_path: "/abs_path/to/your/nsjail/nsjail"   # path to the nsjail sandbox executable file
+      max_obs_length: 512   # str-level observation len limit
+    tool_schema:  # OpenAIFunctionToolSchema
+      type: function
+      function:   # OpenAIFunctionSchema
+        name: code
+        description: Execute the code blob in nsjail sandbox and return corresponding results.
+        parameters:   # OpenAIFunctionParametersSchema
+          type: object
+          properties:   # Dict[str, OpenAIFunctionParametersSchema]
+            query:
+              type: string
+              description: The code blob written by LLMs
+          required: ["query"]

@@ -1,0 +1,19 @@
+tools:
+  - class_name: verl.tools.search_tool.SearchTool
+    config:
+      num_workers: 120
+      rate_limit: 120
+      timeout: 30
+    tool_schema:
+      type: function
+      function:
+        name: wiki_search
+        description: Searches the web for relevant information based on the given query.
+        parameters:
+          type: object
+          properties:
+            query:
+              type: string
+              description: one query to be search
+          required: 
+            - query

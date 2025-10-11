@@ -1,0 +1,19 @@
+tools:
+  # visual inspector
+  - class_name: verl.tools.visual_inspector.VisualInspector
+    config:
+      model_name: gpt-4.1   # Inference model name
+      text_limit: 100000
+      download_path: experiments/mm_data    # Relative path of the url download and local imgs
+    tool_schema:  # OpenAIFunctionToolSchema
+      type: function
+      function:   # OpenAIFunctionSchema
+        name: visual_inspector
+        description: Process image files or web image URLs to get descriptions or answer questions about them. Cannot load files directly.
+        parameters:   # OpenAIFunctionParametersSchema
+          type: object
+          properties:   # Dict[str, OpenAIFunctionParametersSchema]
+            query:
+              type: string
+              description: File path or web image URL (e.g., 'https://example.com/image.jpg') to be read as an image. Must be in supported image formats (.jpg/.jpeg/.png/.gif/.bmp/.webp).
+          required: ["query"]

@@ -1,0 +1,757 @@
+2025-09-10 05:31:02 - __main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:02 - __main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:02 - __main__ - INFO - [crawl_page_server_v2.py:418] - Start CrawlPage Server... http://0.0.0.0:9000
+INFO:     Uvicorn running on http://0.0.0.0:9000 (Press CTRL+C to quit)
+INFO:     Started parent process [3920939]
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - __mp_main__ - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+INFO:     Started server process [3920957]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+INFO:     Started server process [3920955]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Started server process [3920959]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+INFO:     Started server process [3920967]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+INFO:     Started server process [3920958]
+INFO:     Application startup complete.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+INFO:     Started server process [3920975]
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+INFO:     Started server process [3920983]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+INFO:     Started server process [3920956]
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+INFO:     Waiting for application startup.
+INFO:     Started server process [3920954]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+INFO:     Application startup complete.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+INFO:     Started server process [3920989]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+INFO:     Started server process [3920962]
+INFO:     Waiting for application startup.
+INFO:     Started server process [3920978]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Started server process [3920968]
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Started server process [3920965]
+INFO:     Application startup complete.
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+INFO:     Application startup complete.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+INFO:     Started server process [3920963]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+INFO:     Started server process [3920974]
+INFO:     Started server process [3920981]
+INFO:     Waiting for application startup.
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+INFO:     Application startup complete.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+INFO:     Started server process [3920980]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+INFO:     Started server process [3920966]
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+INFO:     Started server process [3920973]
+INFO:     Waiting for application startup.
+INFO:     Started server process [3920964]
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [3920979]
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+INFO:     Started server process [3920991]
+INFO:     Waiting for application startup.
+INFO:     Started server process [3920961]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Started server process [3920988]
+INFO:     Application startup complete.
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+INFO:     Started server process [3920970]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+INFO:     Started server process [3920982]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+INFO:     Started server process [3920997]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+INFO:     Application startup complete.
+INFO:     Started server process [3920976]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+INFO:     Started server process [3920987]
+INFO:     Waiting for application startup.
+INFO:     Started server process [3920992]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+INFO:     Started server process [3920960]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+INFO:     Application startup complete.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+INFO:     Started server process [3920971]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+INFO:     Started server process [3920986]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+INFO:     Started server process [3920972]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+INFO:     Started server process [3921003]
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+INFO:     Started server process [3920995]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+INFO:     Started server process [3921000]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+INFO:     Started server process [3921001]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+INFO:     Started server process [3920990]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+INFO:     Started server process [3920985]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Started server process [3920984]
+INFO:     Application startup complete.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+INFO:     Started server process [3920994]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+INFO:     Started server process [3920977]
+INFO:     Waiting for application startup.
+INFO:     Started server process [3920996]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+INFO:     Started server process [3921002]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+INFO:     Started server process [3920999]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+INFO:     Started server process [3920969]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:65] - Initializing CrawlPageServer
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:71] - CrawlPageServer initialized with jina_timeout=30s, summary_timeout=300s, token_budget=80000, max_retries=5
+INFO:     Started server process [3920993]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+INFO:     Started server process [3920998]
+INFO:     Waiting for application startup.
+2025-09-10 05:31:03 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:348] - CrawlPage Start
+INFO:     Application startup complete.
+INFO:     Received SIGTERM, exiting.
+INFO:     Terminated child process [3920954]
+INFO:     Terminated child process [3920955]
+INFO:     Terminated child process [3920956]
+INFO:     Terminated child process [3920957]
+INFO:     Terminated child process [3920958]
+INFO:     Terminated child process [3920959]
+INFO:     Terminated child process [3920960]
+INFO:     Terminated child process [3920961]
+INFO:     Terminated child process [3920962]
+INFO:     Terminated child process [3920963]
+INFO:     Terminated child process [3920964]
+INFO:     Terminated child process [3920965]
+INFO:     Terminated child process [3920966]
+INFO:     Terminated child process [3920967]
+INFO:     Terminated child process [3920968]
+INFO:     Terminated child process [3920969]
+INFO:     Terminated child process [3920970]
+INFO:     Terminated child process [3920971]
+INFO:     Terminated child process [3920972]
+INFO:     Terminated child process [3920973]
+INFO:     Terminated child process [3920974]
+INFO:     Terminated child process [3920975]
+INFO:     Terminated child process [3920976]
+INFO:     Terminated child process [3920977]
+INFO:     Terminated child process [3920978]
+INFO:     Terminated child process [3920979]
+INFO:     Terminated child process [3920980]
+INFO:     Terminated child process [3920981]
+INFO:     Terminated child process [3920982]
+INFO:     Terminated child process [3920983]
+INFO:     Terminated child process [3920984]
+INFO:     Terminated child process [3920985]
+INFO:     Terminated child process [3920986]
+INFO:     Terminated child process [3920987]
+INFO:     Terminated child process [3920988]
+INFO:     Terminated child process [3920989]
+INFO:     Terminated child process [3920990]
+INFO:     Terminated child process [3920991]
+INFO:     Terminated child process [3920992]
+INFO:     Terminated child process [3920993]
+INFO:     Terminated child process [3920994]
+INFO:     Terminated child process [3920995]
+INFO:     Terminated child process [3920996]
+INFO:     Terminated child process [3920997]
+INFO:     Terminated child process [3920998]
+INFO:     Terminated child process [3920999]
+INFO:     Terminated child process [3921000]
+INFO:     Terminated child process [3921001]
+INFO:     Terminated child process [3921002]
+INFO:     Terminated child process [3921003]
+INFO:     Waiting for child process [3920954]
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Waiting for application shutdown.
+INFO:     Waiting for application shutdown.
+INFO:     Waiting for application shutdown.
+INFO:     Waiting for application shutdown.
+INFO:     Waiting for application shutdown.
+INFO:     Waiting for application shutdown.
+INFO:     Waiting for application shutdown.
+INFO:     Waiting for application shutdown.
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Waiting for application shutdown.
+INFO:     Waiting for application shutdown.
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Waiting for application shutdown.
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Waiting for application shutdown.
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Application shutdown complete.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [3920974]
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Application shutdown complete.
+INFO:     Finished server process [3920982]
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Finished server process [3920964]
+INFO:     Application shutdown complete.
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Application shutdown complete.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [3921003]
+INFO:     Finished server process [3920966]
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Waiting for application shutdown.
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [3921002]
+INFO:     Application shutdown complete.
+INFO:     Finished server process [3921001]
+INFO:     Application shutdown complete.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [3920981]
+INFO:     Finished server process [3920963]
+INFO:     Finished server process [3920967]
+INFO:     Waiting for application shutdown.
+INFO:     Finished server process [3920954]
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [3920955]
+INFO:     Finished server process [3920986]
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Finished server process [3920991]
+INFO:     Waiting for application shutdown.
+INFO:     Finished server process [3920972]
+INFO:     Finished server process [3920956]
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Application shutdown complete.
+INFO:     Application shutdown complete.
+INFO:     Waiting for application shutdown.
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Waiting for application shutdown.
+INFO:     Waiting for application shutdown.
+INFO:     Finished server process [3920973]
+INFO:     Finished server process [3920993]
+INFO:     Application shutdown complete.
+INFO:     Waiting for application shutdown.
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Application shutdown complete.
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Finished server process [3920995]
+INFO:     Application shutdown complete.
+INFO:     Waiting for application shutdown.
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Waiting for application shutdown.
+INFO:     Waiting for application shutdown.
+INFO:     Finished server process [3920976]
+INFO:     Application shutdown complete.
+INFO:     Finished server process [3920996]
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Finished server process [3920999]
+INFO:     Application shutdown complete.
+INFO:     Application shutdown complete.
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Waiting for application shutdown.
+INFO:     Waiting for application shutdown.
+INFO:     Waiting for application shutdown.
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Finished server process [3921000]
+INFO:     Application shutdown complete.
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [3920978]
+INFO:     Waiting for application shutdown.
+INFO:     Finished server process [3920961]
+INFO:     Finished server process [3920965]
+INFO:     Waiting for application shutdown.
+INFO:     Waiting for application shutdown.
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Application shutdown complete.
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [3920983]
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Application shutdown complete.
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Finished server process [3920984]
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Finished server process [3920987]
+INFO:     Waiting for application shutdown.
+INFO:     Waiting for application shutdown.
+INFO:     Finished server process [3920985]
+INFO:     Application shutdown complete.
+INFO:     Application shutdown complete.
+INFO:     Application shutdown complete.
+INFO:     Waiting for application shutdown.
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Application shutdown complete.
+INFO:     Waiting for application shutdown.
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Application shutdown complete.
+INFO:     Finished server process [3920970]
+INFO:     Finished server process [3920989]
+INFO:     Finished server process [3920969]
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Finished server process [3920988]
+INFO:     Waiting for application shutdown.
+INFO:     Finished server process [3920971]
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Waiting for application shutdown.
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Finished server process [3920968]
+INFO:     Application shutdown complete.
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Application shutdown complete.
+INFO:     Application shutdown complete.
+INFO:     Waiting for application shutdown.
+INFO:     Finished server process [3920959]
+INFO:     Waiting for application shutdown.
+INFO:     Waiting for application shutdown.
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Waiting for application shutdown.
+INFO:     Finished server process [3920957]
+INFO:     Application shutdown complete.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [3920992]
+INFO:     Finished server process [3920990]
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Application shutdown complete.
+INFO:     Finished server process [3920958]
+INFO:     Finished server process [3920975]
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Application shutdown complete.
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Application shutdown complete.
+INFO:     Waiting for application shutdown.
+INFO:     Finished server process [3920994]
+INFO:     Application shutdown complete.
+INFO:     Finished server process [3920977]
+INFO:     Finished server process [3920960]
+INFO:     Application shutdown complete.
+2025-09-10 09:10:48 - crawl_page_server_v2 - INFO - [crawl_page_server_v2.py:350] - CrawlPage Stopped
+INFO:     Application shutdown complete.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [3920998]
+INFO:     Application shutdown complete.
+INFO:     Finished server process [3920962]
+INFO:     Finished server process [3920997]
+INFO:     Finished server process [3920979]
+INFO:     Finished server process [3920980]
+INFO:     Waiting for child process [3920955]
+INFO:     Waiting for child process [3920956]
+INFO:     Waiting for child process [3920957]
+INFO:     Waiting for child process [3920958]
+INFO:     Waiting for child process [3920959]
+INFO:     Waiting for child process [3920960]
+INFO:     Waiting for child process [3920961]
+INFO:     Waiting for child process [3920962]
+INFO:     Waiting for child process [3920963]
+INFO:     Waiting for child process [3920964]
+INFO:     Waiting for child process [3920965]
+INFO:     Waiting for child process [3920966]
+INFO:     Waiting for child process [3920967]
+INFO:     Waiting for child process [3920968]
+INFO:     Waiting for child process [3920969]
+INFO:     Waiting for child process [3920970]
+INFO:     Waiting for child process [3920971]
+INFO:     Waiting for child process [3920972]
+INFO:     Waiting for child process [3920973]
+INFO:     Waiting for child process [3920974]
+INFO:     Waiting for child process [3920975]
+INFO:     Waiting for child process [3920976]
+INFO:     Waiting for child process [3920977]
+INFO:     Waiting for child process [3920978]
+INFO:     Waiting for child process [3920979]
+INFO:     Waiting for child process [3920980]
+INFO:     Waiting for child process [3920981]
+INFO:     Waiting for child process [3920982]
+INFO:     Waiting for child process [3920983]
+INFO:     Waiting for child process [3920984]
+INFO:     Waiting for child process [3920985]
+INFO:     Waiting for child process [3920986]
+INFO:     Waiting for child process [3920987]
+INFO:     Waiting for child process [3920988]
+INFO:     Waiting for child process [3920989]
+INFO:     Waiting for child process [3920990]
+INFO:     Waiting for child process [3920991]
+INFO:     Waiting for child process [3920992]
+INFO:     Waiting for child process [3920993]
+INFO:     Waiting for child process [3920994]
+INFO:     Waiting for child process [3920995]
+INFO:     Waiting for child process [3920996]
+INFO:     Waiting for child process [3920997]
+INFO:     Waiting for child process [3920998]
+INFO:     Waiting for child process [3920999]
+INFO:     Waiting for child process [3921000]
+INFO:     Waiting for child process [3921001]
+INFO:     Waiting for child process [3921002]
+INFO:     Waiting for child process [3921003]
+INFO:     Stopping parent process [3920939]

@@ -18,7 +18,7 @@ pip install uvicorn fastapi
 
 ### download the index file
 ```bash
-cd AFM/tool_servers/wiki_server
+cd Agent/tool_servers/wiki_server
 # save_path=/the/path/to/save
 python ./download.py --save_path $save_path
 cat $save_path/part_* > $save_path/e5_Flat.index
@@ -26,9 +26,9 @@ gzip -d $save_path/wiki-18.jsonl.gz
 ```
 
 ### start the wiki search tool
-set the path of the index file in `AFM/tool_servers/wiki_server/launch_rag_server.sh`, then start wiki_server with
+set the path of the index file in `Agent/tool_servers/wiki_server/launch_rag_server.sh`, then start wiki_server with
 ```bash
-bash AFM/tool_servers/wiki_server/launch_rag_server.sh
+bash Agent/tool_servers/wiki_server/launch_rag_server.sh
 ```
 
 
@@ -41,22 +41,22 @@ You should first `source environment.sh` to set env variables. Then, use `start_
 
 - **Start Servers**:
   ```bash
-  bash AFM/tool_servers/web_server/start_servers.sh start
+  bash Agent/tool_servers/web_server/start_servers.sh start
   ```
   This command starts the `CrawlPageV2` and `SerperCacheV2` services.
 
 - **Stop Servers**:
   ```bash
-  bash AFM/tool_servers/web_server/start_servers.sh stop
+  bash Agent/tool_servers/web_server/start_servers.sh stop
   ```
 
 - **Check Server Status**:
   ```bash
-  bash AFM/tool_servers/web_server/start_servers.sh status
+  bash Agent/tool_servers/web_server/start_servers.sh status
   ```
 
 - **Run Tests**:
   ```bash
-  bash AFM/tool_servers/web_server/start_servers.sh test
+  bash Agent/tool_servers/web_server/start_servers.sh test
   ```
   This command runs the test scripts in the `server_tests` directory to verify that the services are working correctly.

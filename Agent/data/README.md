@@ -23,7 +23,7 @@ The script converts the raw JSONL/Parquet files into training-ready Parquet file
 ### Running the Script
 
 ```bash
-python data/prepare_data.py "raw_jsonl_file_path" -o "output_dir" --tool-type "single|two|three|afm" --sys-prompt-key "DOUBLE_CHECK_RULE|AFM" --filter-none
+python data/prepare_data.py "raw_jsonl_file_path" -o "output_dir" --tool-type "single|two|three|all" --sys-prompt-key "DOUBLE_CHECK_RULE|AFM" --filter-none
 ```
 
 Example:
@@ -72,7 +72,7 @@ Three tool configurations are available:
 - `single`: Uses only `wiki_search`
 - `two`: Uses `web_search` and `crawl_page`
 - `three`: Uses three tools: `wiki_search`, `web_search`, and `crawl_page`
-- `afm`: Uses all tools: `web_search`, `crawl_page`, `code` and `visual_inspector`
+- `all`: Uses all tools: `web_search`, `crawl_page`, `code` and `visual_inspector`
 
 To modify tool parameters, edit the `tools_kwargs` in the script:
 

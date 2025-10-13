@@ -54,8 +54,8 @@ ignore_observation_token=observation # Specify special token
 #### 1. Env Setup
 ```bash
 # Create virtual environment. 
-conda create -n afm python=3.10.14 -y
-conda activate afm
+conda create -n parallel-agent python=3.10.14 -y
+conda activate parallel-agent
 
 # Phase 1
 pip install symeval@git+https://github.com/tongyx361/symeval.git@54c1a844ea4a6db486c5af8b5b4d2f383224a83b
@@ -155,16 +155,15 @@ To start a training run:
     - web_search and crawl_page: `verl/verl/tools/config/search_tool_config/training_servers_config.yaml`
     - code_executor: `verl/verl/tools/config/code_tool_config/code_executor.yaml`
     - wiki_search: `verl/verl/tools/config/search_tool_config/wiki_rag_config.yaml`
-    - all_tools: `verl/verl/tools/config/afm_tool_config/afm_tool_config.yaml`
 5. Execute the training script like:
 ```bash
-bash ./AFM/train/web_agent/rl/train_dapo_web_agent.sh
+bash ./Agent/train/web_agent/rl/train_dapo_web_agent.sh
 ```
 
 
 ## Evaluation
 ### Multi Hop QA (MHQA) Evaluation
-1. To evaluate MHQA datasets, you should first download the AFM-MHQA-Agent-7B-rl model and test datasets
+1. To evaluate MHQA datasets, you should first download the MHQA-Agent-3B-rl model and test datasets (to be uploaded...)
 2. Transform the test dataset to parquet format.
 ```bash
 cd ./Agent/data/mhqa_agent
@@ -176,32 +175,20 @@ bash ./prepare.sh
   ```
 
 
-### Web Agent Evaluation
-1. To evaluate web agent, you should first download the AFM-WebAgent-32B-RL checkpoint (or your own) and test dataset.
+### Web Agent Evaluation (later work)
+1. To evaluate web agent, you should first download the model checkpoint (or your own) and test dataset.
 2. Set environment variable `source environment.sh`.
-3. Set `model_path` in the `run_qwen.sh` script, and serve the model with the following command `./AFM/evaluation/web_agent/run_qwen.sh`. After several minutes, the script will output like `URL Endpoint: http://10.77.225.92:10000/v1`.
+3. Set `model_path` in the `run_qwen.sh` script, and serve the model with the following command `./Agent/evaluation/web_agent/run_qwen.sh`. After several minutes, the script will output like `URL Endpoint: http://10.77.225.92:10000/v1`.
 4. Choose from available test sets in `./Agent/data/web_agent/test_benchmarks`: gaia, hle, webwalker, browsercomp.
 5. Finally, set `URL` in `inference_web_agent.py` according to step3, and execute the python script to start webagent inference and evaluation.
 
 ```bash
 python ./Agent/evaluation/web_agent/inference_web_agent.py \
-    --infile  ./AFM/data/web_agent/test_benchmarks/gaia_dev_103.json \
+    --infile  ./Agent/data/web_agent/test_benchmarks/gaia_dev_103.json \
     --outfile ./Agent/evaluation/web_agent/results/webagent_out.jsonl
 ```
 
 
-### Code Agent Evaluation
-1. All math and code related evaluation datasets are stored in the `./Agent/data/code_agent/code_math_benchmarks` folder. 
-2. Please fill in the downloaded code agent model AFM-CodeAgent-32B-rl and validation datasets in `./Agent/evaluation/code_agent/eval_code_agent.sh`
-3. Make sure you have build nsjail code sandbox and fill in the corresponding config. Then run
-
-```bash
-bash ./Agent/evaluation/code_agent/eval_code_agent.sh
-```
-
-In addition, if you want to evaluate livecodebench datasets, please use the scripts `./Agent/data/code_agent/livecodebench_testcases/download_and_process.py` to generate corresponding testcases. We would like to thank the [Skywork-OR1](https://github.com/SkyworkAI/Skywork-OR1) for their open-source evaluation code. Our evaluation implementation for math and code training sets was inspired by and adapted from their work.
-
-
 # Acknowledgement
-We would like to express our sincere gratitude to the original authors and contributors of LLaMA-Factory and verl, an excellent open-source project that provided a solid foundation for our work. Our implementation has been adapted from the [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory), [verl-agent](https://github.com/langfengQ/verl-agent) and [AFM](https://github.com/OPPO-PersonalAI/Agent_Foundation_Models). 
+We would like to express our sincere gratitude to the original authors and contributors of LLaMA-Factory and verl, an excellent open-source project that provided a solid foundation for our work. Our implementation has been adapted from the [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory), [verl-agent](https://github.com/langfengQ/verl-agent), [AFM](https://github.com/OPPO-PersonalAI/Agent_Foundation_Models) and [Search-R1](https://github.com/PeterGriffinJin/Search-R1). 
 For the VeRL framework, we have enhanced it with parallel tool calling in sgalng rollout phase for RL training, along with specified reward design, and related supporting features.

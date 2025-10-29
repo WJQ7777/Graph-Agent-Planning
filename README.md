@@ -1,5 +1,8 @@
 # Parallel-Agent-Workflow-Planning
 This is the repository for our paper "GAP: Graph-Based Agent Planning with Parallel Tool Use and Reinforcement Learning". We propose a new paradigm for LLM reasoning that enables parallel workflow planning and end-to-end RL trianing within a single model. The fine-tuning dataset and model checkpoint will be released soon.
+<div align="center">
+  <img src="./assets/gap1.png" width="90%" height="auto" />
+</div>
 
 ## Training
 ### Supervised Fine-tuning

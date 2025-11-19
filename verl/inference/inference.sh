@@ -18,9 +18,9 @@ TP=2
 #                                      Env
 # =====================================================================================================================
 NNODES=1
-MODEL_PATH="/home/jiaqi/Agent_Foundation_Models/AFM/models/AFM-MHQA-Agent-3B-sft"
-OUTPUT_PATH="/home/jiaqi/Agent_Foundation_Models/experiments/inference"
-DATASETS="/home/jiaqi/Agent_Foundation_Models/AFM/data/mhqa_agent/test_benchmarks/nq_full_first_10.parquet"
+MODEL_PATH="/home/clara/chaos/production/Graph-Agent-Planning/models/your_trained_model"  # Thay đổi path này
+OUTPUT_PATH="/home/clara/chaos/production/Graph-Agent-Planning/experiments/inference"
+DATASETS="/home/clara/chaos/production/Graph-Agent-Planning/data/test_dataset.parquet"  # Thay đổi path này
 export VLLM_ATTENTION_BACKEND=XFORMERS
 export EXPERIMENT_NAME="afm_inference"
 # =====================================================================================================================

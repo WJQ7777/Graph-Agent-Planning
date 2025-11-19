@@ -1,15 +1,17 @@
 set -e
 
-MODEL_PATH="home/jiaqi/Graph-Agent-Planning/Agent/models/Qwen2.5-3B-Instruct"
+cd /home/clara/chaos/production/Graph-Agent-Planning/LLaMA-Factory
+
+MODEL_PATH="Qwen/Qwen2.5-3B-Instruct"
 
 export NNODES=1
 NODE_RANK=${RANK:-0}
 export NODE_RANK
-CUDA_VISIBLE_DEVICES=0,1
+export CUDA_VISIBLE_DEVICES=0,1
 
 STAGE=sft
-finetuning_type=full
-OUTPUT_DIR_BASE="home/jiaqi/Graph-Agent-Planning/experiments"
+finetuning_type="lora"
+OUTPUT_DIR_BASE="/home/clara/chaos/production/Graph-Agent-Planning/experiments"
 EPOCHS=4.0
 PRECISION="bf16"
 CUTOFF_LEN=5120
@@ -49,13 +51,14 @@ for LR in "${LEARNING_RATES[@]}"; do
                 mkdir -p "$(dirname "$LOG_FILE")"
                 
                 llama_factory_status=0
+                CUDA_VISIBLE_DEVICES=0,1 \
                 llamafactory-cli train \
-                 --deepspeed examples/deepspeed/ds_z3_config.json \
+                  --deepspeed /home/clara/chaos/production/Graph-Agent-Planning/LLaMA-Factory/examples/deepspeed/ds_z3_config.json \
                   --model_name_or_path "$MODEL_PATH" \
                   --trust_remote_code \
                   --stage $STAGE \
                   --do_train \
-                  --finetuning_type $finetuning_type \
+                  --finetuning_type "$finetuning_type" \
                   --dataset $DATA_DATA \
                   --template $TEMPALTE \
                   --cutoff_len $CUTOFF_LEN \

@@ -3,7 +3,8 @@
     "file_name": "path/to/AFM-WebAgent-SFT-Dataset/WebAgentSFTDataset.json"
   },
   "mhqa_agent_sft": {
-    "file_name": "/home/jiaqi/Agent_Foundation_Models/AFM/data/mhqa_agent/AFM-MHQA-Agent-SFT-Dataset/hotpotQA_parallel_sft.json"
+    "file_name": "/home/clara/chaos/production/Graph-Agent-Planning/GAP-MHQA-SFT-Dataset/train/train.json",
+    "formatting": "alpaca"
   },
   "code_agent_sft": {
     "file_name": "path/to/AFM-CodeAgent-SFT-Dataset/CodeAgentSFTDataset.json"
